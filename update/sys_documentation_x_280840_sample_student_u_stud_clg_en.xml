@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_stud_clg" label="Stud Clg" language="en" table="x_280840_sample_student">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_stud_clg</element>
+            <help/>
+            <hint/>
+            <label>Stud Clg</label>
+            <language>en</language>
+            <name>x_280840_sample_student</name>
+            <plural>Stud Clgs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-20 08:47:36</sys_created_on>
+            <sys_id>b03bffe4dba2230097b2f53a299619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Stud Clg</sys_name>
+            <sys_package display_value="Sample" source="x_280840_sample">26132305db41230097b2f53a2996193f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sample">26132305db41230097b2f53a2996193f</sys_scope>
+            <sys_update_name>sys_documentation_x_280840_sample_student_u_stud_clg_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-20 08:47:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

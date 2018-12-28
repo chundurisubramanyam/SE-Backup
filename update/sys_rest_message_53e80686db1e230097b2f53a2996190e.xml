@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="abc">7a1a1b0ddb92230097b2f53a29961984</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <name>REST_MSG_DEMO</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://dev57759.service-now.com/api/now/table/x_280840_sample_student</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 06:15:43</sys_created_on>
+        <sys_id>53e80686db1e230097b2f53a2996190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REST_MSG_DEMO</sys_name>
+        <sys_package display_value="Sample" source="x_280840_sample">26132305db41230097b2f53a2996193f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">26132305db41230097b2f53a2996193f</sys_scope>
+        <sys_update_name>sys_rest_message_53e80686db1e230097b2f53a2996190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 06:15:43</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

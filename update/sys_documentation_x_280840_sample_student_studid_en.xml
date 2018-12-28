@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="studid" label="Studid" language="en" table="x_280840_sample_student">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>studid</element>
+            <help/>
+            <hint/>
+            <label>Studid</label>
+            <language>en</language>
+            <name>x_280840_sample_student</name>
+            <plural>Studids</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 09:15:57</sys_created_on>
+            <sys_id>60a50cd5db81230097b2f53a299619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Studid</sys_name>
+            <sys_package display_value="Sample" source="x_280840_sample">26132305db41230097b2f53a2996193f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sample">26132305db41230097b2f53a2996193f</sys_scope>
+            <sys_update_name>sys_documentation_x_280840_sample_student_studid_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 09:15:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=false" label="Student" max_length="40" name="x_280840_sample_student" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Studid" max_length="40" name="studid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Studname" max_length="40" name="studname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Stud Clg" max_length="20" name="u_stud_clg" type="string"/>
+        <element label="Stud Addr" mandatory="true" max_length="25" name="x_stud_addr" type="string"/>
+    </element>
+</database>

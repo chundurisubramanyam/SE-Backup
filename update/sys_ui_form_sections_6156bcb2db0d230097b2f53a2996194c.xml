@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6156bcb2db0d230097b2f53a2996194c" sys_domain="global" table="x_280840_sample_marks" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-13 04:39:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2956bcb2db0d230097b2f53a2996194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_280840_sample_marks" name="x_280840_sample_marks" sys_domain="global" view="Default view">6156bcb2db0d230097b2f53a2996194c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_280840_sample_marks" sys_domain="global" view="Default view">b89a7b12db41230097b2f53a2996198a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-13 04:39:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_280840_sample_marks</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-13 04:39:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6156bcb2db0d230097b2f53a2996194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_280840_sample_marks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Sample" source="x_280840_sample">26132305db41230097b2f53a2996193f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sample">26132305db41230097b2f53a2996193f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6156bcb2db0d230097b2f53a2996194c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-13 04:39:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="faculty" max_length="40" name="x_280840_sample_faculty" type="collection">
+        <element label="fid" max_length="20" name="fid" type="string"/>
+        <element label="fname" max_length="40" name="fname" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

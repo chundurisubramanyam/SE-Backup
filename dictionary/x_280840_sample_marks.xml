@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="marks" max_length="40" name="x_280840_sample_marks" type="collection">
+        <element label="Studid" max_length="40" name="studid" reference="x_280840_sample_student" type="string"/>
+        <element label="sub1" max_length="40" name="sub1" type="integer"/>
+        <element label="sub2" max_length="40" name="sub2" type="integer"/>
+        <element label="Sub3" max_length="40" name="sub3" type="integer"/>
+        <element label="Total" max_length="40" name="total" read_only="true" type="integer"/>
+        <element label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element label="When needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+        <index name="index">
+            <element name="u_requested_for"/>
+        </index>
+    </element>
+</database>
